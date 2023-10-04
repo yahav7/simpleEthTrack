@@ -1,4 +1,4 @@
-# simpleEthTrack
+# simple network Tracker
 This bat script performs the following actions:
 
 Creates a new directory called "temp" in the C:\ drive using the mkdir command.
