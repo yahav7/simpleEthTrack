@@ -1,4 +1,4 @@
-# simple network Tracker
+# simple network traffic recorder 
 This bat script performs the following actions:
 
 Creates a new directory called "temp" in the C:\ drive using the mkdir command.
